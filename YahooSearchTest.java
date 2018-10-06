@@ -12,6 +12,7 @@ public class YahooSearchTest {
     public void testSearch() throws Exception {
         System.setProperty("webdriver.gecko.driver", "/Users/sofia/IdeaProjects/WebdriverJavaBootcamp/src/test/resources/geckodriver");
         driver = new FirefoxDriver();
+        StringIndexOutOfBoundsException("sofiasofiasofia");
 //        navigatingToMainPage();
 //        typeRequestInSearchInput();
 //        submitSearch();
